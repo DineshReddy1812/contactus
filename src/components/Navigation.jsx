@@ -1,9 +1,10 @@
 import React from 'react'
+import A
 
 const Navigation = () => {
   return (
     <nav>
-        <div className="navlogo">
+        <div className="logo">
             <img src='/images/logo.png' alt='logo' />
         </div>
 
