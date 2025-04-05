@@ -14,3 +14,15 @@ nav{
   display: flex;
   justify-content: space-between;
 }
+nav ul {
+  display: flex;
+  gap:24px;
+  list-style-type: none;
+  font-weight: 500;
+  align-items: center;
+}
+nav img{
+  height: 48px;
+  width : 100px;
+  padding-left: 200px;
+}
